@@ -15,7 +15,7 @@
 
 ### About
 
-Slytherin started as my personal Obsidian theme for those late-night writing sessions and D&D campaign planning marathons. I wanted something that felt dramatic without being exhausting to look at for hours—bold enough to keep me inspired, but easy on the eyes when I'm deep in the flow.
+Slytherin started as my personal Obsidian theme for those late-night writing sessions and D&D campaign planning marathons. I wanted something that felt dramatic without being exhausting to look at for hours, with contrast enough to keep me inspired, but easy on the eyes when I'm deep in the flow.
 
 The result is a theme built around rich gradients, clean typography, and thoughtful contrast. Whether you're worldbuilding, taking notes, or organizing your vault, Slytherin tries to stay out of your way while adding just enough visual personality to make the process enjoyable.
 
@@ -39,7 +39,7 @@ Got ideas? Found a bug? Want a feature that would make this theme perfect for yo
 
 ### Sobre
 
-Slytherin começou como meu tema pessoal do Obsidian para aquelas sessões de escrita noturnas e maratonas de planejamento de RPG. Eu queria algo dramático, mas que não cansasse a vista depois de horas—ousado o suficiente para me manter inspirado, porém confortável quando estou imerso no trabalho.
+Slytherin começou como meu tema pessoal do Obsidian para aquelas sessões de escrita noturnas e maratonas de planejamento de RPG. Eu queria algo dramático, mas que não cansasse a vista depois de horas, com contrastes o suficiente para me manter inspirado, porém confortável quando estou imerso no trabalho.
 
 O resultado é um tema construído em torno de gradientes marcantes, tipografia limpa e contraste bem pensado. Seja criando mundos, fazendo anotações ou organizando seu vault, Slytherin tenta não atrapalhar enquanto adiciona aquela personalidade visual que torna o processo mais agradável.
 
