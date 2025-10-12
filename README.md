@@ -51,11 +51,11 @@ O resultado é um tema construído em torno de gradientes marcantes, tipografia 
 
 - **Graph view refinado** – Cores de slider personalizadas e ajustes pensados para complementar a estética verde profunda sem conflitos visuais.
 
-[![Support Me on Ko-fi](https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01c01ea919180939bc_support_me_on_kofi_badge_blue.png)](https://ko-fi.com/F2F11OZU1)
-
-
 - **Refinamentos de interface** – Painéis, embeds, metadados e outros elementos da interface foram ajustados para legibilidade durante sessões longas. Porque ninguém quer forçar a vista no vault às 2 da manhã.
 
 ### Feedback
 
 Tem ideias? Encontrou um bug? Quer um recurso que tornaria esse tema perfeito para seu fluxo de trabalho? Estou aqui para ouvir. Compartilhe seus pensamentos, sugestões ou problemas—adoraria saber o que faria o Slytherin funcionar melhor para você.
+
+
+[![Support Me on Ko-fi](https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01c01ea919180939bc_support_me_on_kofi_badge_blue.png | width=200)](https://ko-fi.com/F2F11OZU1)
