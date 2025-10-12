@@ -1,10 +1,10 @@
 # Slytherin Theme
 ## Table of Contents
-- [English](#english)
+- [🇺🇸 English](#english)
   - [About](#about)
   - [Key Features](#key-features)
   - [Feedback](#feedback)
-- [Português](#português)
+- [🇧🇷 Português](#português)
   - [Sobre](#sobre)
   - [Recursos Principais](#recursos-principais)
   - [Feedback](#feedback-1)
