@@ -1,8 +1,7 @@
 {
   "name": "Slytherin",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "minAppVersion": "1.0.0",
   "author": "MatheusZarkov",
-  "repo": "MatheusZarkov/slytherin",
-  "screenshot": "Slytherin.png",
-  "modes": ["dark"]
+  "authorUrl": "https://github.com/MatheusZarkov"
 }
